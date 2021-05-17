@@ -1,2 +1,2 @@
-Assignment on BasicStatistics Level-1
+Assignment on Basic Statistics Level-1
 
