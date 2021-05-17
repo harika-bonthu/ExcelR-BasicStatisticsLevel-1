@@ -1,2 +1,2 @@
-ExcelR-BasicStatisticsLevel-1
+Assignment on BasicStatistics Level-1
 
